@@ -11,7 +11,6 @@ const client = new Client({
     GatewayIntentBits.MessageContent,
   ],
 });
-console.log(process.env.DISCORD_SECRET);
 const add = (num1, num2) => {
   return num1 + num2;
 };
@@ -27,3 +26,4 @@ client.on("messageCreate", (message) => {
     message.reply("Sum is " + res);
   }
 });
+client.login(process.env.DISCORD_SECRET);
