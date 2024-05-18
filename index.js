@@ -4,35 +4,35 @@ import express from "express";
 
 dotenv.config();
 
-// Initialize Discord Bot
-const client = new Client({
-  intents: [
-    GatewayIntentBits.Guilds,
-    GatewayIntentBits.GuildMessages,
-    GatewayIntentBits.MessageContent,
-  ],
-});
+// // Initialize Discord Bot
+// const client = new Client({
+//   intents: [
+//     GatewayIntentBits.Guilds,
+//     GatewayIntentBits.GuildMessages,
+//     GatewayIntentBits.MessageContent,
+//   ],
+// });
 
-// Define the add function
-const add = (num1, num2) => {
-  return num1 + num2;
-};
+// // Define the add function
+// const add = (num1, num2) => {
+//   return num1 + num2;
+// };
 
-// Set up the message listener
-client.on("messageCreate", (message) => {
-  if (message.author.bot) return;
-  let s = message.content;
-  if (s.startsWith("!sum")) {
-    let st = s.split(" ");
-    let num1 = Number(st[1]);
-    let num2 = Number(st[2]);
-    let res = add(num1, num2);
-    message.reply("Sum is " + res);
-  }
-});
+// // Set up the message listener
+// client.on("messageCreate", (message) => {
+//   if (message.author.bot) return;
+//   let s = message.content;
+//   if (s.startsWith("!sum")) {
+//     let st = s.split(" ");
+//     let num1 = Number(st[1]);
+//     let num2 = Number(st[2]);
+//     let res = add(num1, num2);
+//     message.reply("Sum is " + res);
+//   }
+// });
 
-// Login to Discord
-client.login(process.env.DISCORD_SECRET);
+// // Login to Discord
+// client.login(process.env.DISCORD_SECRET);
 
 // Initialize Express Server
 const app = express();
