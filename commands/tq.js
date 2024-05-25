@@ -1,11 +1,11 @@
 import { EmbedBuilder } from "discord.js";
 import fetch from "node-fetch";
-import he from "he";
+
 
 import { addScore } from "../utils/scoreModel.js";
 
 export default {
-  name: "tech-quiz",
+  name: "tq",
   description: "Play a Technical Trivia quiz game with the bot",
   async execute(message) {
     const getTriviaQuestion = async () => {

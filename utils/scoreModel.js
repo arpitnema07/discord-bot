@@ -43,7 +43,7 @@ export async function getTopScores(game, limit = 10) {
     if (game === "quiz") g = "Trivia-Quiz";
     else if (game === "math-quiz") g = "Math-Quiz";
     else if (game === "rps") g = "Rock-Paper-Scissors";
-    else if (game === "tech-quiz") g = "Tech-Quiz";
+    else if (game === "tq") g = "Tech-Quiz";
     const db = getDb();
     return await db
         .collection("user_scores")
