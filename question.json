@@ -1,0 +1,1102 @@
+[
+    {
+        "id": 401,
+        "title": "What is Artificial Intelligence (AI)?",
+        "options": [
+            "The simulation of human intelligence processes by machines",
+            "The automation of manual tasks",
+            "The process of building robots",
+            "The study of natural language processing"
+        ],
+        "correct": "The simulation of human intelligence processes by machines"
+    },
+    {
+        "id": 402,
+        "title": "What is Machine Learning (ML)?",
+        "options": [
+            "The study of human learning patterns",
+            "The study of algorithms that improve automatically through experience",
+            "The process of teaching computers to think like humans",
+            "The automation of manual tasks"
+        ],
+        "correct": "The study of algorithms that improve automatically through experience"
+    },
+    {
+        "id": 403,
+        "title": "What are the two main categories of Machine Learning?",
+        "options": [
+            "Supervised Learning and Unsupervised Learning",
+            "Deep Learning and Reinforcement Learning",
+            "Natural Language Processing and Computer Vision",
+            "Regression and Classification"
+        ],
+        "correct": "Supervised Learning and Unsupervised Learning"
+    },
+    {
+        "id": 404,
+        "title": "What is Supervised Learning?",
+        "options": [
+            "A type of learning where an algorithm learns to perform actions in an environment to maximize some notion of cumulative reward",
+            "A type of learning where the algorithm is trained on labeled data",
+            "A type of learning where the algorithm is trained on unlabeled data",
+            "A type of learning where the algorithm is not provided with any feedback"
+        ],
+        "correct": "A type of learning where the algorithm is trained on labeled data"
+    },
+    {
+        "id": 405,
+        "title": "What is Unsupervised Learning?",
+        "options": [
+            "A type of learning where the algorithm learns to perform actions in an environment to maximize some notion of cumulative reward",
+            "A type of learning where the algorithm is trained on labeled data",
+            "A type of learning where the algorithm is trained on unlabeled data",
+            "A type of learning where the algorithm is not provided with any feedback"
+        ],
+        "correct": "A type of learning where the algorithm is trained on unlabeled data"
+    },
+    {
+        "id": 406,
+        "title": "What is Reinforcement Learning?",
+        "options": [
+            "A type of learning where the algorithm learns to perform actions in an environment to maximize some notion of cumulative reward",
+            "A type of learning where the algorithm is trained on labeled data",
+            "A type of learning where the algorithm is trained on unlabeled data",
+            "A type of learning where the algorithm is not provided with any feedback"
+        ],
+        "correct": "A type of learning where the algorithm learns to perform actions in an environment to maximize some notion of cumulative reward"
+    },
+    {
+        "id": 407,
+        "title": "What is Deep Learning?",
+        "options": [
+            "A type of learning where the algorithm learns to perform actions in an environment to maximize some notion of cumulative reward",
+            "A type of learning where the algorithm is trained on labeled data",
+            "A type of learning where the algorithm is trained on unlabeled data",
+            "A subset of machine learning concerned with algorithms inspired by the structure and function of the brain"
+        ],
+        "correct": "A subset of machine learning concerned with algorithms inspired by the structure and function of the brain"
+    },
+    {
+        "id": 408,
+        "title": "What is Overfitting in Machine Learning?",
+        "options": [
+            "When a model is too simple to capture the underlying structure of the data",
+            "When a model performs well on the training data but fails to generalize to new data",
+            "When a model is too complex and captures noise in the training data",
+            "When a model achieves perfect accuracy on the training data"
+        ],
+        "correct": "When a model is too complex and captures noise in the training data"
+    },
+    {
+        "id": 409,
+        "title": "What is Underfitting in Machine Learning?",
+        "options": [
+            "When a model is too simple to capture the underlying structure of the data",
+            "When a model performs well on the training data but fails to generalize to new data",
+            "When a model is too complex and captures noise in the training data",
+            "When a model achieves perfect accuracy on the training data"
+        ],
+        "correct": "When a model is too simple to capture the underlying structure of the data"
+    },
+    {
+        "id": 410,
+        "title": "What is Cross-Validation in Machine Learning?",
+        "options": [
+            "A technique for evaluating the performance of a machine learning model on unseen data",
+            "A technique for training a model on multiple datasets simultaneously",
+            "A technique for validating the performance of a model using a single dataset",
+            "A technique for preventing overfitting in machine learning models"
+        ],
+        "correct": "A technique for evaluating the performance of a machine learning model on unseen data"
+    },
+    {
+        "id": 411,
+        "title": "What is Bias in Machine Learning?",
+        "options": [
+            "The error due to overly simplistic assumptions in the learning algorithm",
+            "The error due to a model's inability to capture the underlying structure of the data",
+            "The error due to chance fluctuations in the training data",
+            "The error due to noise in the training data"
+        ],
+        "correct": "The error due to overly simplistic assumptions in the learning algorithm"
+    },
+    {
+        "id": 412,
+        "title": "What is Variance in Machine Learning?",
+        "options": [
+            "The error due to overly simplistic assumptions in the learning algorithm",
+            "The error due to a model's inability to capture the underlying structure of the data",
+            "The error due to chance fluctuations in the training data",
+            "The error due to noise in the training data"
+        ],
+        "correct": "The error due to a model's inability to capture the underlying structure of the data"
+    },
+    {
+        "id": 413,
+        "title": "What is Feature Engineering in Machine Learning?",
+        "options": [
+            "The process of selecting the most relevant features from a dataset",
+            "The process of transforming raw data into a format suitable for training a model",
+            "The process of manually creating new features from existing ones to improve model performance",
+            "The process of training a model on a large dataset"
+        ],
+        "correct": "The process of manually creating new features from existing ones to improve model performance"
+    },
+    {
+        "id": 414,
+        "title": "What is a Neural Network?",
+        "options": [
+            "A network of biological neurons in the brain",
+            "A network of artificial neurons used to model complex relationships in data",
+            "A network of interconnected computers used for distributed computing",
+            "A network of genetic algorithms used for optimization"
+        ],
+        "correct": "A network of artificial neurons used to model complex relationships in data"
+    },
+    {
+        "id": 415,
+        "title": "What is a Convolutional Neural Network (CNN)?",
+        "options": [
+            "A type of neural network designed for sequential data",
+            "A type of neural network designed for image recognition and processing",
+            "A type of neural network designed for text classification",
+            "A type of neural network designed for reinforcement learning"
+        ],
+        "correct": "A type of neural network designed for image recognition and processing"
+    },
+    {
+        "id": 416,
+        "title": "What is a Recurrent Neural Network (RNN)?",
+        "options": [
+            "A type of neural network designed for image recognition and processing",
+            "A type of neural network designed for sequential data",
+            "A type of neural network designed for text classification",
+            "A type of neural network designed for reinforcement learning"
+        ],
+        "correct": "A type of neural network designed for sequential data"
+    },
+    {
+        "id": 417,
+        "title": "What is Natural Language Processing (NLP)?",
+        "options": [
+            "A branch of linguistics concerned with the study of syntax and grammar",
+            "A branch of computer science concerned with the interaction between computers and human languages",
+            "A branch of artificial intelligence concerned with mimicking human conversation",
+            "A branch of mathematics concerned with the analysis of language data"
+        ],
+        "correct": "A branch of computer science concerned with the interaction between computers and human languages"
+    },
+    {
+        "id": 418,
+        "title": "What is Transfer Learning?",
+        "options": [
+            "A learning technique where knowledge gained from solving one problem is applied to a different but related problem",
+            "A learning technique where knowledge is transferred from human experts to machines",
+            "A learning technique where a model is trained on multiple datasets simultaneously",
+            "A learning technique where the model's parameters are transferred to a different machine"
+        ],
+        "correct": "A learning technique where knowledge gained from solving one problem is applied to a different but related problem"
+    },
+    {
+        "id": 419,
+        "title": "What is a Generative Adversarial Network (GAN)?",
+        "options": [
+            "A type of neural network designed for reinforcement learning",
+            "A type of neural network designed for image recognition and processing",
+            "A type of neural network architecture used for unsupervised learning",
+            "A type of neural network designed for sequential data"
+        ],
+        "correct": "A type of neural network architecture used for unsupervised learning"
+    },
+    {
+        "id": 420,
+        "title": "What is Reinforcement Learning?",
+        "options": [
+            "A type of machine learning where algorithms are trained on labeled data",
+            "A type of machine learning where algorithms learn to perform actions in an environment to maximize some notion of cumulative reward",
+            "A type of machine learning where algorithms are trained on unlabeled data",
+            "A type of machine learning where algorithms are not provided with any feedback"
+        ],
+        "correct": "A type of machine learning where algorithms learn to perform actions in an environment to maximize some notion of cumulative reward"
+    },
+    {
+        "id": 421,
+        "title": "What is a Decision Tree?",
+        "options": [
+            "A tree used to make decisions in computer science",
+            "A hierarchical model of decisions and their possible consequences",
+            "A flowchart-like structure in which internal nodes represent features or attributes, and leaf nodes represent decisions",
+            "A data structure used to store hierarchical information"
+        ],
+        "correct": "A flowchart-like structure in which internal nodes represent features or attributes, and leaf nodes represent decisions"
+    },
+    {
+        "id": 422,
+        "title": "What is Bagging (Bootstrap Aggregating)?",
+        "options": [
+            "A machine learning technique for reducing variance and improving accuracy by combining the results of multiple models",
+            "A technique for reducing overfitting by randomly dropping out units during training",
+            "A technique for transforming input data into a higher-dimensional space to make it linearly separable",
+            "A technique for handling missing data in a dataset"
+        ],
+        "correct": "A machine learning technique for reducing variance and improving accuracy by combining the results of multiple models"
+    },
+    {
+        "id": 423,
+        "title": "What is Boosting?",
+        "options": [
+            "A machine learning technique for reducing variance and improving accuracy by combining the results of multiple models",
+            "A technique for reducing overfitting by randomly dropping out units during training",
+            "A technique for transforming input data into a higher-dimensional space to make it linearly separable",
+            "A technique for handling missing data in a dataset"
+        ],
+        "correct": "A machine learning technique for reducing variance and improving accuracy by sequentially training weak learners and adjusting their weights"
+    },
+    {
+        "id": 424,
+        "title": "What is the Curse of Dimensionality?",
+        "options": [
+            "The tendency for performance to decrease as the dimensionality of the feature space increases",
+            "The tendency for performance to increase as the dimensionality of the feature space increases",
+            "The tendency for performance to remain constant as the dimensionality of the feature space increases",
+            "The tendency for performance to fluctuate as the dimensionality of the feature space increases"
+        ],
+        "correct": "The tendency for performance to decrease as the dimensionality of the feature space increases"
+    },
+    {
+        "id": 425,
+        "title": "What is the Bias-Variance Tradeoff?",
+        "options": [
+            "The tradeoff between underfitting and overfitting in machine learning models",
+            "The tradeoff between model complexity and model performance",
+            "The tradeoff between precision and recall in classification models",
+            "The tradeoff between training time and model accuracy"
+        ],
+        "correct": "The tradeoff between underfitting and overfitting in machine learning models"
+    },
+    {
+        "id": 426,
+        "title": "What is the Activation Function in Neural Networks?",
+        "options": [
+            "A function that determines the output of a neuron given its input",
+            "A function that determines the loss between the predicted output and the true output",
+            "A function that determines the learning rate of the neural network",
+            "A function that determines the architecture of the neural network"
+        ],
+        "correct": "A function that determines the output of a neuron given its input"
+    },
+    {
+        "id": 427,
+        "title": "What is Backpropagation?",
+        "options": [
+            "A technique for adjusting the weights of a neural network based on the error of its output",
+            "A technique for initializing the weights of a neural network",
+            "A technique for regularizing a neural network to prevent overfitting",
+            "A technique for optimizing the learning rate of a neural network"
+        ],
+        "correct": "A technique for adjusting the weights of a neural network based on the error of its output"
+    },
+    {
+        "id": 428,
+        "title": "What is Gradient Descent?",
+        "options": [
+            "A technique for adjusting the weights of a neural network based on the error of its output",
+            "A technique for initializing the weights of a neural network",
+            "A technique for regularizing a neural network to prevent overfitting",
+            "A technique for optimizing the learning rate of a neural network"
+        ],
+        "correct": "A technique for optimizing the learning rate of a neural network"
+    },
+    {
+        "id": 429,
+        "title": "What is Stochastic Gradient Descent (SGD)?",
+        "options": [
+            "A variant of gradient descent where the entire dataset is used to compute the gradient",
+            "A variant of gradient descent where the learning rate is adjusted after each iteration",
+            "A variant of gradient descent where only a subset of the dataset is used to compute the gradient",
+            "A variant of gradient descent where the learning rate is fixed"
+        ],
+        "correct": "A variant of gradient descent where only a subset of the dataset is used to compute the gradient"
+    },
+    {
+        "id": 430,
+        "title": "What is Mini-batch Gradient Descent?",
+        "options": [
+            "A variant of gradient descent where the entire dataset is used to compute the gradient",
+            "A variant of gradient descent where the learning rate is adjusted after each iteration",
+            "A variant of gradient descent where only a subset of the dataset is used to compute the gradient",
+            "A variant of gradient descent where the learning rate is fixed"
+        ],
+        "correct": "A variant of gradient descent where only a subset of the dataset is used to compute the gradient"
+    },
+    {
+        "id": 431,
+        "title": "What is Hyperparameter Tuning?",
+        "options": [
+            "The process of automatically selecting the best features for a machine learning model",
+            "The process of fine-tuning the parameters of a machine learning model to optimize its performance",
+            "The process of selecting the best algorithm for a given machine learning problem",
+            "The process of preprocessing the data to improve the performance of a machine learning model"
+        ],
+        "correct": "The process of fine-tuning the parameters of a machine learning model to optimize its performance"
+    },
+    {
+        "id": 432,
+        "title": "What is Regularization in Machine Learning?",
+        "options": [
+            "The process of preprocessing the data to improve the performance of a machine learning model",
+            "The process of fine-tuning the parameters of a machine learning model to optimize its performance",
+            "The process of preventing overfitting by adding a penalty term to the loss function",
+            "The process of automatically selecting the best features for a machine learning model"
+        ],
+        "correct": "The process of preventing overfitting by adding a penalty term to the loss function"
+    },
+    {
+        "id": 433,
+        "title": "What is Dropout in Neural Networks?",
+        "options": [
+            "A technique for reducing overfitting by randomly dropping out units during training",
+            "A technique for adjusting the learning rate of a neural network during training",
+            "A technique for regularizing a neural network to prevent overfitting",
+            "A technique for initializing the weights of a neural network"
+        ],
+        "correct": "A technique for reducing overfitting by randomly dropping out units during training"
+    },
+    {
+        "id": 434,
+        "title": "What is Data Augmentation?",
+        "options": [
+            "The process of generating additional training data by modifying existing data",
+            "The process of preprocessing the data to improve the performance of a machine learning model",
+            "The process of selecting the most relevant features from a dataset",
+            "The process of automatically selecting the best features for a machine learning model"
+        ],
+        "correct": "The process of generating additional training data by modifying existing data"
+    },
+    {
+        "id": 435,
+        "title": "What is One-Hot Encoding?",
+        "options": [
+            "A technique for encoding categorical variables as binary vectors",
+            "A technique for scaling numerical features to a standard range",
+            "A technique for imputing missing values in a dataset",
+            "A technique for normalizing data to have zero mean and unit variance"
+        ],
+        "correct": "A technique for encoding categorical variables as binary vectors"
+    },
+    {
+        "id": 436,
+        "title": "What is the Confusion Matrix?",
+        "options": [
+            "A matrix used to visualize the performance of a classification model",
+            "A matrix used to visualize the performance of a regression model",
+            "A matrix used to visualize the performance of a clustering model",
+            "A matrix used to visualize the performance of a dimensionality reduction model"
+        ],
+        "correct": "A matrix used to visualize the performance of a classification model"
+    },
+    {
+        "id": 437,
+        "title": "What is Precision in Machine Learning?",
+        "options": [
+            "The ratio of true positive predictions to the total number of positive predictions",
+            "The ratio of true positive predictions to the total number of actual positive instances",
+            "The ratio of true positive predictions to the total number of instances",
+            "The ratio of true positive predictions to the sum of true positive and false negative predictions"
+        ],
+        "correct": "The ratio of true positive predictions to the sum of true positive and false positive predictions"
+    },
+    {
+        "id": 438,
+        "title": "What is Recall in Machine Learning?",
+        "options": [
+            "The ratio of true positive predictions to the total number of positive predictions",
+            "The ratio of true positive predictions to the total number of actual positive instances",
+            "The ratio of true positive predictions to the total number of instances",
+            "The ratio of true positive predictions to the sum of true positive and false negative predictions"
+        ],
+        "correct": "The ratio of true positive predictions to the total number of actual positive instances"
+    },
+    {
+        "id": 439,
+        "title": "What is F1 Score?",
+        "options": [
+            "The harmonic mean of precision and recall",
+            "The arithmetic mean of precision and recall",
+            "The geometric mean of precision and recall",
+            "The maximum of precision and recall"
+        ],
+        "correct": "The harmonic mean of precision and recall"
+    },
+    {
+        "id": 440,
+        "title": "What is Cross-Entropy Loss?",
+        "options": [
+            "A loss function used for binary classification problems",
+            "A loss function used for multi-class classification problems",
+            "A loss function used for regression problems",
+            "A loss function used for clustering problems"
+        ],
+        "correct": "A loss function used for multi-class classification problems"
+    },
+    {
+        "id": 441,
+        "title": "What is Mean Squared Error (MSE)?",
+        "options": [
+            "A loss function used for binary classification problems",
+            "A loss function used for multi-class classification problems",
+            "A loss function used for regression problems",
+            "A loss function used for clustering problems"
+        ],
+        "correct": "A loss function used for regression problems"
+    },
+    {
+        "id": 442,
+        "title": "What is the K-Nearest Neighbors (KNN) algorithm?",
+        "options": [
+            "A supervised learning algorithm for classification and regression problems",
+            "An unsupervised learning algorithm for clustering",
+            "A reinforcement learning algorithm for decision making",
+            "A semi-supervised learning algorithm for data labeling"
+        ],
+        "correct": "An unsupervised learning algorithm for clustering"
+    },
+    {
+        "id": 443,
+        "title": "What is the K-Means algorithm?",
+        "options": [
+            "A supervised learning algorithm for classification and regression",
+            "An unsupervised learning algorithm for clustering",
+            "A reinforcement learning algorithm for decision making",
+            "A semi-supervised learning algorithm for data labeling"
+        ],
+        "correct": "An unsupervised learning algorithm for clustering"
+    },
+    {
+        "id": 444,
+        "title": "What is Principal Component Analysis (PCA)?",
+        "options": [
+            "A supervised learning algorithm for classification and regression",
+            "An unsupervised learning algorithm for clustering",
+            "A dimensionality reduction technique",
+            "A feature selection technique"
+        ],
+        "correct": "A dimensionality reduction technique"
+    },
+    {
+        "id": 445,
+        "title": "What is Support Vector Machine (SVM)?",
+        "options": [
+            "A supervised learning algorithm for classification and regression",
+            "An unsupervised learning algorithm for clustering",
+            "A reinforcement learning algorithm for decision making",
+            "A semi-supervised learning algorithm for data labeling"
+        ],
+        "correct": "A supervised learning algorithm for classification and regression"
+    },
+    {
+        "id": 446,
+        "title": "What is Bias in Machine Learning?",
+        "options": [
+            "The error due to overly simplistic assumptions in the learning algorithm",
+            "The error due to a model's inability to capture the underlying structure of the data",
+            "The error due to chance fluctuations in the training data",
+            "The error due to noise in the training data"
+        ],
+        "correct": "The error due to overly simplistic assumptions in the learning algorithm"
+    },
+    {
+        "id": 447,
+        "title": "What is Variance in Machine Learning?",
+        "options": [
+            "The error due to overly simplistic assumptions in the learning algorithm",
+            "The error due to a model's inability to capture the underlying structure of the data",
+            "The error due to chance fluctuations in the training data",
+            "The error due to noise in the training data"
+        ],
+        "correct": "The error due to a model's inability to capture the underlying structure of the data"
+    },
+    {
+        "id": 448,
+        "title": "What is Ensemble Learning?",
+        "options": [
+            "A machine learning technique for combining the predictions of multiple models to improve performance",
+            "A machine learning technique for training models on multiple datasets simultaneously",
+            "A machine learning technique for transforming input data into a higher-dimensional space",
+            "A machine learning technique for handling missing data in a dataset"
+        ],
+        "correct": "A machine learning technique for combining the predictions of multiple models to improve performance"
+    },
+    {
+        "id": 449,
+        "title": "What is the Perceptron algorithm?",
+        "options": [
+            "An unsupervised learning algorithm for clustering",
+            "A reinforcement learning algorithm for decision making",
+            "A semi-supervised learning algorithm for data labeling",
+            "A supervised learning algorithm for binary classification"
+        ],
+        "correct": "A supervised learning algorithm for binary classification"
+    },
+    {
+        "id": 450,
+        "title": "What is the Multilayer Perceptron (MLP)?",
+        "options": [
+            "An unsupervised learning algorithm for clustering",
+            "A reinforcement learning algorithm for decision making",
+            "A semi-supervised learning algorithm for data labeling",
+            "A supervised learning algorithm for classification and regression"
+        ],
+        "correct": "A supervised learning algorithm for classification and regression"
+    },
+    {
+        "id": 451,
+        "title": "What is the Naive Bayes algorithm?",
+        "options": [
+            "A supervised learning algorithm for classification and regression",
+            "An unsupervised learning algorithm for clustering",
+            "A reinforcement learning algorithm for decision making",
+            "A semi-supervised learning algorithm for data labeling"
+        ],
+        "correct": "A supervised learning algorithm for classification and regression"
+    },
+    {
+        "id": 452,
+        "title": "What is the Gaussian Naive Bayes algorithm?",
+        "options": [
+            "A supervised learning algorithm for classification and regression",
+            "An unsupervised learning algorithm for clustering",
+            "A reinforcement learning algorithm for decision making",
+            "A semi-supervised learning algorithm for data labeling"
+        ],
+        "correct": "A supervised learning algorithm for classification and regression"
+    },
+    {
+        "id": 453,
+        "title": "What is the Bernoulli Naive Bayes algorithm?",
+        "options": [
+            "A supervised learning algorithm for classification and regression",
+            "An unsupervised learning algorithm for clustering",
+            "A reinforcement learning algorithm for decision making",
+            "A semi-supervised learning algorithm for data labeling"
+        ],
+        "correct": "A supervised learning algorithm for classification and regression"
+    },
+    {
+        "id": 454,
+        "title": "What is the Decision Tree algorithm?",
+        "options": [
+            "A supervised learning algorithm for classification and regression",
+            "An unsupervised learning algorithm for clustering",
+            "A reinforcement learning algorithm for decision making",
+            "A semi-supervised learning algorithm for data labeling"
+        ],
+        "correct": "A supervised learning algorithm for classification and regression"
+    },
+    {
+        "id": 455,
+        "title": "What is the Random Forest algorithm?",
+        "options": [
+            "A supervised learning algorithm for classification and regression",
+            "An unsupervised learning algorithm for clustering",
+            "A reinforcement learning algorithm for decision making",
+            "A semi-supervised learning algorithm for data labeling"
+        ],
+        "correct": "A supervised learning algorithm for classification and regression"
+    },
+    {
+        "id": 456,
+        "title": "What is the AdaBoost algorithm?",
+        "options": [
+            "A supervised learning algorithm for classification and regression",
+            "An unsupervised learning algorithm for clustering",
+            "A reinforcement learning algorithm for decision making",
+            "A semi-supervised learning algorithm for data labeling"
+        ],
+        "correct": "A supervised learning algorithm for classification and regression"
+    },
+    {
+        "id": 457,
+        "title": "What is the Gradient Boosting algorithm?",
+        "options": [
+            "A supervised learning algorithm for classification and regression",
+            "An unsupervised learning algorithm for clustering",
+            "A reinforcement learning algorithm for decision making",
+            "A semi-supervised learning algorithm for data labeling"
+        ],
+        "correct": "A supervised learning algorithm for classification and regression"
+    },
+    {
+        "id": 458,
+        "title": "What is the XGBoost algorithm?",
+        "options": [
+            "A supervised learning algorithm for classification and regression",
+            "An unsupervised learning algorithm for clustering",
+            "A reinforcement learning algorithm for decision making",
+            "A semi-supervised learning algorithm for data labeling"
+        ],
+        "correct": "A supervised learning algorithm for classification and regression"
+    },
+    {
+        "id": 459,
+        "title": "What is the Lasso Regression algorithm?",
+        "options": [
+            "A supervised learning algorithm for classification and regression",
+            "An unsupervised learning algorithm for clustering",
+            "A reinforcement learning algorithm for decision making",
+            "A semi-supervised learning algorithm for data labeling"
+        ],
+        "correct": "A supervised learning algorithm for regression"
+    },
+    {
+        "id": 460,
+        "title": "What is the Ridge Regression algorithm?",
+        "options": [
+            "A supervised learning algorithm for classification and regression",
+            "An unsupervised learning algorithm for clustering",
+            "A reinforcement learning algorithm for decision making",
+            "A semi-supervised learning algorithm for data labeling"
+        ],
+        "correct": "A supervised learning algorithm for regression"
+    },
+    {
+        "id": 461,
+        "title": "What is a DBMS?",
+        "options": [
+            "A software system for creating, managing, and manipulating databases",
+            "A programming language for database queries",
+            "A hardware component of a computer system",
+            "A network protocol for data transfer"
+        ],
+        "correct": "A software system for creating, managing, and manipulating databases"
+    },
+    {
+        "id": 462,
+        "title": "What are the key components of a DBMS?",
+        "options": [
+            "Data, Hardware, Software, Users",
+            "Tables, Rows, Columns, Fields",
+            "Database, Database Administrator, Users, Application Programs",
+            "Primary Key, Foreign Key, Index, Views"
+        ],
+        "correct": "Database, Database Administrator, Users, Application Programs"
+    },
+    {
+        "id": 463,
+        "title": "What is normalization in DBMS?",
+        "options": [
+            "The process of organizing data to minimize redundancy and dependency",
+            "The process of making data available for analysis",
+            "The process of encrypting data for security",
+            "The process of converting data to a different format"
+        ],
+        "correct": "The process of organizing data to minimize redundancy and dependency"
+    },
+    {
+        "id": 464,
+        "title": "What is denormalization?",
+        "options": [
+            "The process of organizing data to maximize redundancy and dependency",
+            "The process of adding redundancy to a database for faster read performance",
+            "The process of converting unstructured data into structured data",
+            "The process of removing redundancy from a database for faster write performance"
+        ],
+        "correct": "The process of adding redundancy to a database for faster read performance"
+    },
+    {
+        "id": 465,
+        "title": "What is ACID in DBMS?",
+        "options": [
+            "A protocol for data transmission",
+            "A set of properties that guarantee database transactions are processed reliably",
+            "A database query language",
+            "A method for indexing data"
+        ],
+        "correct": "A set of properties that guarantee database transactions are processed reliably"
+    },
+    {
+        "id": 466,
+        "title": "What is a database schema?",
+        "options": [
+            "A diagram that represents the structure of a database",
+            "A set of rules that govern database design",
+            "A collection of data stored in a database",
+            "A software application used to manage databases"
+        ],
+        "correct": "A set of rules that govern database design"
+    },
+    {
+        "id": 467,
+        "title": "What is a primary key?",
+        "options": [
+            "A key used to access the primary database server",
+            "A unique identifier for each record in a table",
+            "A key used for encrypting sensitive data",
+            "A key used for sorting records in a table"
+        ],
+        "correct": "A unique identifier for each record in a table"
+    },
+    {
+        "id": 468,
+        "title": "What is a foreign key?",
+        "options": [
+            "A key used to access a remote database server",
+            "A key that references the primary key of another table",
+            "A key used for data encryption",
+            "A key used for database authentication"
+        ],
+        "correct": "A key that references the primary key of another table"
+    },
+    {
+        "id": 469,
+        "title": "What is SQL injection?",
+        "options": [
+            "A technique used to inject SQL queries into a database server",
+            "A method for optimizing SQL queries for performance",
+            "A method for encrypting SQL queries for security",
+            "A technique used to prevent SQL queries from executing"
+        ],
+        "correct": "A technique used to inject SQL queries into a database server"
+    },
+    {
+        "id": 470,
+        "title": "What is indexing in DBMS?",
+        "options": [
+            "The process of organizing data for efficient retrieval",
+            "The process of encrypting data for security",
+            "The process of normalizing data",
+            "The process of compressing data for storage efficiency"
+        ],
+        "correct": "The process of organizing data for efficient retrieval"
+    },
+    {
+        "id": 471,
+        "title": "What are the advantages of using stored procedures in DBMS?",
+        "options": [
+            "Increased security, improved performance, and reduced network traffic",
+            "Decreased security, decreased performance, and increased network traffic",
+            "Increased security, decreased performance, and increased network traffic",
+            "Decreased security, increased performance, and reduced network traffic"
+        ],
+        "correct": "Increased security, improved performance, and reduced network traffic"
+    },
+    {
+        "id": 472,
+        "title": "What is a deadlock in DBMS?",
+        "options": [
+            "A situation where two or more transactions are unable to proceed because each is waiting for the other to release a lock",
+            "A situation where two or more transactions have the same transaction ID",
+            "A situation where a transaction is aborted due to a constraint violation",
+            "A situation where a transaction is rolled back"
+        ],
+        "correct": "A situation where two or more transactions are unable to proceed because each is waiting for the other to release a lock"
+    },
+    {
+        "id": 473,
+        "title": "What is a trigger in DBMS?",
+        "options": [
+            "A statement that is automatically executed by the DBMS when specified conditions are met",
+            "A type of join operation in SQL",
+            "A constraint that enforces referential integrity between tables",
+            "A method for encrypting data in a database"
+        ],
+        "correct": "A statement that is automatically executed by the DBMS when specified conditions are met"
+    },
+    {
+        "id": 474,
+        "title": "What is a view in DBMS?",
+        "options": [
+            "A virtual table that is based on the result of a SELECT query",
+            "A physical table that stores data permanently",
+            "A temporary table that is created during a database session",
+            "A table that is used for logging database transactions"
+        ],
+        "correct": "A virtual table that is based on the result of a SELECT query"
+    },
+    {
+        "id": 475,
+        "title": "What is data warehousing?",
+        "options": [
+            "The process of analyzing large volumes of data to uncover hidden patterns, correlations, and insights",
+            "The process of transforming raw data into a structured format for analysis and reporting",
+            "The process of storing and managing large volumes of structured and unstructured data",
+            "The process of creating a central repository of integrated data from one or more disparate sources"
+        ],
+        "correct": "The process of creating a central repository of integrated data from one or more disparate sources"
+    },
+    {
+        "id": 476,
+        "title": "What is data mining?",
+        "options": [
+            "The process of analyzing large volumes of data to uncover hidden patterns, correlations, and insights",
+            "The process of transforming raw data into a structured format for analysis and reporting",
+            "The process of storing and managing large volumes of structured and unstructured data",
+            "The process of creating a central repository of integrated data from one or more disparate sources"
+        ],
+        "correct": "The process of analyzing large volumes of data to uncover hidden patterns, correlations, and insights"
+    },
+    {
+        "id": 477,
+        "title": "What is a database index?",
+        "options": [
+            "A data structure that improves the speed of data retrieval operations on a database table",
+            "A unique identifier for each record in a table",
+            "A virtual table that is based on the result of a SELECT query",
+            "A statement that is automatically executed by the DBMS when specified conditions are met"
+        ],
+        "correct": "A data structure that improves the speed of data retrieval operations on a database table"
+    },
+    {
+        "id": 478,
+        "title": "What is a database transaction?",
+        "options": [
+            "A unit of work performed on a database that must be completed in its entirety or not at all",
+            "A statement that is automatically executed by the DBMS when specified conditions are met",
+            "A constraint that enforces referential integrity between tables",
+            "A method for encrypting data in a database"
+        ],
+        "correct": "A unit of work performed on a database that must be completed in its entirety or not at all"
+    },
+    {
+        "id": 479,
+        "title": "What is the difference between a DBMS and a RDBMS?",
+        "options": [
+            "A DBMS is a software system for creating, managing, and manipulating databases, while an RDBMS is a specific type of DBMS that uses the relational model",
+            "A DBMS is a specific type of DBMS that uses the relational model, while an RDBMS is a software system for creating, managing, and manipulating databases",
+            "A DBMS is a hardware component of a computer system, while an RDBMS is a software application used to manage databases",
+            "A DBMS is a programming language for database queries, while an RDBMS is a network protocol for data transfer"
+        ],
+        "correct": "A DBMS is a software system for creating, managing, and manipulating databases, while an RDBMS is a specific type of DBMS that uses the relational model"
+    },
+    {
+        "id": 480,
+        "title": "What is the difference between a clustered and a non-clustered index?",
+        "options": [
+            "In a clustered index, the physical order of rows in the table is the same as the order of the index, while in a non-clustered index, the physical order of rows in the table is different from the order of the index",
+            "In a clustered index, the physical order of rows in the table is different from the order of the index, while in a non-clustered index, the physical order of rows in the table is the same as the order of the index",
+            "A clustered index is used for sorting records in a table, while a non-clustered index is used for accessing rows in a table",
+            "A clustered index is used for encrypting data in a table, while a non-clustered index is used for data compression"
+        ],
+        "correct": "In a clustered index, the physical order of rows in the table is the same as the order of the index, while in a non-clustered index, the physical order of rows in the table is different from the order of the index"
+    },
+    {
+        "id": 481,
+        "title": "What is database normalization?",
+        "options": [
+            "The process of organizing data to maximize redundancy and dependency",
+            "The process of organizing data for efficient retrieval",
+            "The process of organizing data to minimize redundancy and dependency",
+            "The process of organizing data into tables and columns"
+        ],
+        "correct": "The process of organizing data to minimize redundancy and dependency"
+    },
+    {
+        "id": 482,
+        "title": "What is database denormalization?",
+        "options": [
+            "The process of organizing data to maximize redundancy and dependency",
+            "The process of organizing data for efficient retrieval",
+            "The process of organizing data to minimize redundancy and dependency",
+            "The process of organizing data into tables and columns"
+        ],
+        "correct": "The process of organizing data to maximize redundancy and dependency"
+    },
+    {
+        "id": 483,
+        "title": "What are the advantages of denormalization?",
+        "options": [
+            "Improved performance for read-heavy workloads and simplified queries",
+            "Improved performance for write-heavy workloads and complex queries",
+            "Increased data integrity and reduced storage requirements",
+            "Increased data security and simplified database maintenance"
+        ],
+        "correct": "Improved performance for read-heavy workloads and simplified queries"
+    },
+    {
+        "id": 484,
+        "title": "What is a database view?",
+        "options": [
+            "A virtual table that is based on the result of a SELECT query",
+            "A physical table that stores data permanently",
+            "A temporary table that is created during a database session",
+            "A table that is used for logging database transactions"
+        ],
+        "correct": "A virtual table that is based on the result of a SELECT query"
+    },
+    {
+        "id": 485,
+        "title": "What is a database trigger?",
+        "options": [
+            "A statement that is automatically executed by the DBMS when specified conditions are met",
+            "A type of join operation in SQL",
+            "A constraint that enforces referential integrity between tables",
+            "A method for encrypting data in a database"
+        ],
+        "correct": "A statement that is automatically executed by the DBMS when specified conditions are met"
+    },
+    {
+        "id": 486,
+        "title": "What is a database constraint?",
+        "options": [
+            "A rule that restricts the type or value of data that can be stored in a database",
+            "A key that references the primary key of another table",
+            "A virtual table that is based on the result of a SELECT query",
+            "A statement that is automatically executed by the DBMS when specified conditions are met"
+        ],
+        "correct": "A rule that restricts the type or value of data that can be stored in a database"
+    },
+    {
+        "id": 487,
+        "title": "What is database replication?",
+        "options": [
+            "The process of creating a copy of a database for disaster recovery purposes",
+            "The process of optimizing database performance through query caching",
+            "The process of distributing database transactions across multiple servers",
+            "The process of transforming raw data into a structured format for analysis and reporting"
+        ],
+        "correct": "The process of creating a copy of a database for disaster recovery purposes"
+    },
+    {
+        "id": 488,
+        "title": "What is database sharding?",
+        "options": [
+            "The process of creating a copy of a database for disaster recovery purposes",
+            "The process of partitioning a database across multiple servers",
+            "The process of optimizing database performance through query caching",
+            "The process of transforming raw data into a structured format for analysis and reporting"
+        ],
+        "correct": "The process of partitioning a database across multiple servers"
+    },
+    {
+        "id": 489,
+        "title": "What is the CAP theorem in database systems?",
+        "options": [
+            "A theorem that states that a distributed database system cannot simultaneously guarantee consistency, availability, and partition tolerance",
+            "A theorem that states that a distributed database system can simultaneously guarantee consistency, availability, and partition tolerance",
+            "A theorem that states that a distributed database system can guarantee consistency and availability, but not partition tolerance",
+            "A theorem that states that a distributed database system can guarantee consistency and partition tolerance, but not availability"
+        ],
+        "correct": "A theorem that states that a distributed database system cannot simultaneously guarantee consistency, availability, and partition tolerance"
+    },
+    {
+        "id": 490,
+        "title": "What is ACID in database transactions?",
+        "options": [
+            "A set of properties that guarantee database transactions are processed reliably",
+            "A protocol for data transmission",
+            "A database query language",
+            "A method for indexing data"
+        ],
+        "correct": "A set of properties that guarantee database transactions are processed reliably"
+    },
+    {
+        "id": 491,
+        "title": "What is BASE in database systems?",
+        "options": [
+            "A set of principles for designing distributed database systems",
+            "A set of properties that guarantee database transactions are processed reliably",
+            "A protocol for data transmission",
+            "A method for indexing data"
+        ],
+        "correct": "A set of principles for designing distributed database systems"
+    },
+    {
+        "id": 492,
+        "title": "What is the difference between a database index and a database constraint?",
+        "options": [
+            "An index is used for sorting records in a table, while a constraint is a rule that restricts the type or value of data that can be stored in a database",
+            "An index is a rule that restricts the type or value of data that can be stored in a database, while a constraint is a data structure that improves the speed of data retrieval operations on a database table",
+            "An index is a data structure that improves the speed of data retrieval operations on a database table, while a constraint is a virtual table that is based on the result of a SELECT query",
+            "An index is a statement that is automatically executed by the DBMS when specified conditions are met, while a constraint is a key that references the primary key of another table"
+        ],
+        "correct": "An index is used for sorting records in a table, while a constraint is a rule that restricts the type or value of data that can be stored in a database"
+    },
+    {
+        "id": 493,
+        "title": "What is the difference between a clustered and a non-clustered index?",
+        "options": [
+            "A clustered index is a data structure that improves the speed of data retrieval operations on a database table, while a non-clustered index is a rule that restricts the type or value of data that can be stored in a database",
+            "A clustered index is used for sorting records in a table, while a non-clustered index is used for accessing rows in a table",
+            "A clustered index is a virtual table that is based on the result of a SELECT query, while a non-clustered index is a physical table that stores data permanently",
+            "A clustered index is an index where the physical order of rows in the table is the same as the order of the index, while a non-clustered index is an index where the physical order of rows in the table is different from the order of the index"
+        ],
+        "correct": "A clustered index is an index where the physical order of rows in the table is the same as the order of the index, while a non-clustered index is an index where the physical order of rows in the table is different from the order of the index"
+    },
+    {
+        "id": 494,
+        "title": "What is a materialized view?",
+        "options": [
+            "A physical table that stores data permanently",
+            "A virtual table that is based on the result of a SELECT query",
+            "A temporary table that is created during a database session",
+            "A table that is used for logging database transactions"
+        ],
+        "correct": "A physical table that stores data permanently"
+    },
+    {
+        "id": 495,
+        "title": "What is database partitioning?",
+        "options": [
+            "The process of creating a copy of a database for disaster recovery purposes",
+            "The process of optimizing database performance through query caching",
+            "The process of distributing database transactions across multiple servers",
+            "The process of partitioning a database across multiple servers"
+        ],
+        "correct": "The process of partitioning a database across multiple servers"
+    },
+    {
+        "id": 496,
+        "title": "What is database clustering?",
+        "options": [
+            "The process of creating a copy of a database for disaster recovery purposes",
+            "The process of optimizing database performance through query caching",
+            "The process of distributing database transactions across multiple servers",
+            "The process of grouping multiple servers together to act as a single system"
+        ],
+        "correct": "The process of grouping multiple servers together to act as a single system"
+    },
+    {
+        "id": 497,
+        "title": "What is database mirroring?",
+        "options": [
+            "The process of creating a copy of a database for disaster recovery purposes",
+            "The process of optimizing database performance through query caching",
+            "The process of distributing database transactions across multiple servers",
+            "The process of maintaining two copies of a database on separate servers for fault tolerance"
+        ],
+        "correct": "The process of maintaining two copies of a database on separate servers for fault tolerance"
+    },
+    {
+        "id": 498,
+        "title": "What is database encryption?",
+        "options": [
+            "The process of securing sensitive data by converting it into a form that cannot be easily understood without a decryption key",
+            "The process of creating a copy of a database for disaster recovery purposes",
+            "The process of optimizing database performance through query caching",
+            "The process of distributing database transactions across multiple servers"
+        ],
+        "correct": "The process of securing sensitive data by converting it into a form that cannot be easily understood without a decryption key"
+    },
+    {
+        "id": 499,
+        "title": "What is database normalization?",
+        "options": [
+            "The process of organizing data to minimize redundancy and dependency",
+            "The process of organizing data to maximize redundancy and dependency",
+            "The process of transforming raw data into a structured format for analysis and reporting",
+            "The process of optimizing database performance through query caching"
+        ],
+        "correct": "The process of organizing data to minimize redundancy and dependency"
+    },
+    {
+        "id": 500,
+        "title": "What is database denormalization?",
+        "options": [
+            "The process of organizing data to maximize redundancy and dependency",
+            "The process of organizing data to minimize redundancy and dependency",
+            "The process of transforming raw data into a structured format for analysis and reporting",
+            "The process of optimizing database performance through query caching"
+        ],
+        "correct": "The process of organizing data to maximize redundancy and dependency"
+    }
+]
